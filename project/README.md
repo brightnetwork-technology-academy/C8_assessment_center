@@ -1,4 +1,4 @@
-# BNTA - Shop landing page
+# Mini-Project - Shop Landing Page
 
 ## Welcome
 
@@ -22,25 +22,24 @@ Your challenge is to **build out a shop landing page** which can be anything fro
 
 - Build your webpage correctly for viewing within a fullscreen desktop window using HTML & CSS
 
-**Stretch goals:**
+**Stretch goal:**
 
 - Implement a Dark Mode button using HTML and JavaScript
 
-The teaching from the first day of the assessment centre should put you in good stead for this project and what today aims to provide is a chance to put this learning into action.
 
 ### Teams
 
-Each student will be placed into a group of 4—5 people. It is between yourselves how you organise your time. Each team will be announced at the beginning of the project day. We are looking as much for great teamwork as we are for individual contribution so please do support your teammates where you can!
+Each student will be placed into a group of 4—5 people. It is between yourselves how you organise your time. We are looking as much for great teamwork as we are for individual contribution so please do support your teammates where you can!
 
 **To collaborate** we advise using Live Share, an extension to VSCode. If you haven't installed Live Share already, don't worry. When you open VSCode you should see a panel on the left-hand side of your screen. Click the icon that looks like four little cubes (you can hover your mouse over the icon and it should say "Extensions"). In the search bar type 'live share' and install Live Share by Microsoft.
 
 **Important note: Once you install Live Share, restart VSCode as the plugin will only work once you have done so**
 
-Another Visual Studio Code extension you may find useful is 'Live Server'. This extension is used to allow the Live Share host to share their local server with all of the collaborators—allowing all workers to view the HTML webpage in the browser as if stored locally. For a short introduction to Live Server and how to set-up hot browser reloading (reloading upon saving of code), please watch this short 3 min video: [https://www.youtube.com/watch?v=y4qqQeUDCBQ](https://www.youtube.com/watch?v=y4qqQeUDCBQ)
+Another Visual Studio Code extension you may find useful is **Live Server**. This extension is used to allow the Live Share host to share their local server with all of the collaborators—allowing all workers to view the HTML webpage in the browser as if stored locally. For a short introduction to Live Server and how to set-up hot browser reloading (reloading upon saving of code), please watch this short 3 min video: [https://www.youtube.com/watch?v=y4qqQeUDCBQ](https://www.youtube.com/watch?v=y4qqQeUDCBQ)
 
 ### Support
 
-Want some support on the challenge? Trainers are on-hand to support you but we advise you follow the process of **Brain, Book, Buddy, Boss** (in this case trainer) so that you first attempt to solve the problem yourself or as a team. Try to help each other and if you're still stuck, a trainer should be available to help.
+Want some support on the challenge? Trainers are on-hand to support you but we advise you follow the process of Brain, Book, Buddy, Boss (in this case trainer) so that you first attempt to solve the problem yourself or as a team. Try to help each other and if you're still stuck, a trainer will be available to help.
 
 
 
@@ -78,17 +77,21 @@ There's two things we would like to see being done when using the Trello board. 
 
 Please click on the link that corresponds to your group number. If you haven't already got a Trello account, you will be prompted to make one. Please follow the process of signing up for an account and then proceed to joining your groups' Trello board.
 
+Group 1: [https://trello.com/invite/b/euLDgHHw/ATTI607ec142d6a8fd55c9d2a48c43009c1a3B2175EC/bnta-c8a-group-1](https://trello.com/invite/b/euLDgHHw/ATTI607ec142d6a8fd55c9d2a48c43009c1a3B2175EC/bnta-c8a-group-1)
 
-**Group 1:** https://trello.com/invite/b/Rqs6MQE0/56db90740c808d4e0e0a85c9a65e4f62/bnta-c6b-group-1
+Group 2: [https://trello.com/invite/b/p8w0icYM/ATTI982e339c6dff03647fa598594d842319DB47E955/bnta-c8a-group-2](https://trello.com/invite/b/p8w0icYM/ATTI982e339c6dff03647fa598594d842319DB47E955/bnta-c8a-group-2)
 
-**Group 2:** https://trello.com/invite/b/DvlqvJmy/0d8e2a482a076acc9f7e780a5479e33a/bnta-c6b-group-2
+Group 3: [https://trello.com/invite/b/LR8RGd8h/ATTIa72074638f551ab63ab18acfbbe209bdFA3E35FF/bnta-c8a-group-3](https://trello.com/invite/b/LR8RGd8h/ATTIa72074638f551ab63ab18acfbbe209bdFA3E35FF/bnta-c8a-group-3)
 
-**Group 3:** https://trello.com/invite/b/01rGUIUF/4a5b7600fbbdb4dba479b8f29334daa8/bnta-c6b-group-3
+Group 4: [https://trello.com/invite/b/kgdvp8Ry/ATTI457f90c693082dc745450d5aa43ddf89A76DBD49/bnta-c8a-group-4](https://trello.com/invite/b/kgdvp8Ry/ATTI457f90c693082dc745450d5aa43ddf89A76DBD49/bnta-c8a-group-4)
 
-**Group 4:** https://trello.com/invite/b/e8Ts1vtt/33cc124c16043696c7102bbef12c9ae8/bnta-c6b-group-4
+Group 5: [https://trello.com/invite/b/GEnZaUKX/ATTIde5f51c948e0ede0e472f0bed3363bbd8269A37F/bnta-c8a-group-5](https://trello.com/invite/b/GEnZaUKX/ATTIde5f51c948e0ede0e472f0bed3363bbd8269A37F/bnta-c8a-group-5)
 
-**Group 5:** https://trello.com/invite/b/qsYgePDy/7df343d1c8bcf6c4ff850d9dc04f2c77/bnta-c6b-group-5
+Group 6: [https://trello.com/invite/b/C3tFmd3T/ATTI7f26ebeaf10e6541dc37600d781c9475232B9735/bnta-c8a-group-6](https://trello.com/invite/b/C3tFmd3T/ATTI7f26ebeaf10e6541dc37600d781c9475232B9735/bnta-c8a-group-6)
 
+Group 7: [https://trello.com/invite/b/YaVJBQNO/ATTId317fa78cf2294513fbb7f96dc17126865DF0056/bnta-c8a-group-7](https://trello.com/invite/b/YaVJBQNO/ATTId317fa78cf2294513fbb7f96dc17126865DF0056/bnta-c8a-group-7)
+
+Group 8: [https://trello.com/invite/b/ORToe3gs/ATTIff080b0b3bd108112d427b39533b7ee61B19A0D8/bnta-c8a-group-8](https://trello.com/invite/b/ORToe3gs/ATTIff080b0b3bd108112d427b39533b7ee61B19A0D8/bnta-c8a-group-8)
 
 
 
@@ -114,22 +117,14 @@ A `README.md` file will make it show up as your repository's README file on Gith
 
 ### Preparing For Your Presentation
 
-- Presentation Start Time: 3:30pm (arrive just before)
-- Presentation Duration: 10 minutes each group (7 minute presentation, 3 minutes for questions)
+- Presentation Start Time: 2:00pm (arrive just before)
+- Presentation Duration: 8 minutes each group (5 minute presentation, 3 minutes for questions)
 
-What we would love to see is for each team member to pick a part of the project that they've worked on, that they are feel pleased with, and to spend roughly a minute speaking through how their code works.
+Each team member should pick a part of the project that they've worked on and spend roughly a minute talking through how their code works.
 
 60 seconds each is not a long time so organise what you are going to say in advance! Ideally, you will have completed a couple test-runs of your presentation before the full afternoon session.
 
 Because there are so many people talking within such a short amount of time, we **strongly recommend** that only a single person shares their screen for the presentation.
-
-
-
-## Deploying Your Project
-
-There are many ways to host your project for free. If you would like to host your website after the assessment day then you can check out using our recommended host, GitHub Pages. We do stress however that this is **not a requirement of the assessment day** and that deployment should be left until after the assessment.
-
-- [GitHub Pages](https://pages.github.com/)
 
 
 
